@@ -1,3 +1,5 @@
+package Odev1;
+
 import java.util.Arrays;
 
 public class Odev2 {
